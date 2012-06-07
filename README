@@ -1,0 +1,11 @@
+Clarity is a small framework for building web apps and web services on. 
+
+This is its first public release. I've used it on a handful of projects. 
+
+It requires MDB2 (default) or DB (rename db_database.php). 
+
+The tests require PHPUnit. PhpDocumentor is recommended for generating the
+docs. They aren't included in the repo. 
+
+Files under dev/ include some tools and some extra documentation. 
+

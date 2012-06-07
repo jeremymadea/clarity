@@ -1,5 +1,0 @@
-Object oriented PHP 5. 
-Documentation via PHPDocumentor. 
-Testing via PHPUnit. 
-KISS. 
-MVC
