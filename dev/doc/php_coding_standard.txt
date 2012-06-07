@@ -1,0 +1,57 @@
+
+1. Spaces only. No hard tabs. Indents 4 spaces. Line length 80 chars. Try to 
+   break long lines in a way that makes it obvious the line is long.
+
+2. ClassNamesAreCamelCaseWithInitialCap.
+
+3. Functions & class (static) methods: should_be_all_lowercase_with_underscores.
+
+4. Instance methods should be camelCase (initial lowercase.)
+
+5. functions and classes: start and end braces align vertically below first 
+   letter of keyword.
+
+function foo()
+{
+    ....
+}
+
+class Foo()
+{
+    ...
+}
+
+
+6. Control statements initial brace at end of line, ending brace aligned with
+   first letter of keyword. Please put 'else' on a new line. 
+
+if ( ... ) {
+    do_this();
+}
+else {
+    do_something_else();
+}
+
+foreach ( ... ) {
+    do_it();
+}
+
+## Long clauses. 
+if ( ...
+  && ... ) {
+    do_whatever();
+}
+
+
+7. Align vertically when it makes sense:
+
+public  $foobar = 'quux';
+private $bar    = 42; 
+
+$sql = 'SELECT * FROM table'
+     . ' WHERE name=?'
+	 . '   AND is_default=1';
+
+
+8. Use PHPDocumentor comments on files, requires, classes, global variables, 
+   class variables, functions, and methods.

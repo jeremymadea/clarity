@@ -1,0 +1,22 @@
+The tests in this directory are dependent on the PHPUnit framework.
+
+Tests should require "test_framework.php" and should include a call to 
+run_me(). This allows tests to be run individually using: 
+
+$ php5 testname.test.php
+
+When a new test is added, a require "testname.test.php" should be added to the 
+runtests.php script. This allows all tests to be run with the command:
+
+$ ./runtests.php
+
+Don't forget to copy your config.php to the tests directory first.
+
+New tests should be constructed using the PHPUnit framework. Please refer to 
+the documentation at:
+
+http://pear.php.net/manual/en/package.php.phpunit.php
+
+There is also a wiki with lots of good info at:
+
+http://www.phpunit.de/

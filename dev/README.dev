@@ -1,0 +1,9 @@
+Clarity is a PHP5 framework for developing RESTful web services.
+
+Software Prerequisites: 
+ * PHP version 5
+ * PEAR DB
+ * PHPUnit (required for running tests)
+ * PHPDocumentor (required for building documentation)
+
+Development documentation and tools are available under the dev/ directory. 

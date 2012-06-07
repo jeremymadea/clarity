@@ -1,0 +1,32 @@
+CMS ... 
+... shall support social networking. 
+... shall be highly decoupled.
+... shall be modular.
+... shall be built as a collection of web services. 
+
+Web services ...
+... shall be built using a RESTful architecture. 
+... shall be well-named at every level. 
+
+Components ...
+... be represented by a namespace. 
+... will each provide access to a well-defined set of objects. 
+
+Objects ...
+... will have a system-wide unique identifier. 
+... will have a unique integer id for reference internal to the system. 
+... will have a unique string name for reference by humans. 
+... will be represented by one or more URIs. 
+
+
+* media gallery 
+* event manager
+* topics
+* polls
+* comments
+* ratings
+* tags
+* products
+* users
+* links
+
