@@ -5,9 +5,8 @@
  * Required to configure the application.
  *
  * @package Clarity
- * @author Jeremy Madea <jeremymadea@gmail.com>
- * @copyright (C) 2007, Jeremy Madea
- * @version SVN: $Id: config.php 7 2007-09-26 19:51:18Z jeremy $
+ * @author Jeremy Madea <jdmadea@gmail.com>
+ * @copyright (C) 2007-2012, Jeremy Madea
  * @filesource
  */
 

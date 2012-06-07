@@ -3,9 +3,8 @@
  * database.class.php
  *
  * @package OCP
- * @author Jeremy Madea <jeremymadea@gmail.com>
- * @copyright 2007 
- * @version SVN: $Id: database.class.php 25 2007-11-30 10:01:23Z root $
+ * @author Jeremy Madea <jdmadea@gmail.com>
+ * @copyright 2007-2012, Jeremy Madea
  * @filesource
  */
 

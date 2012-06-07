@@ -6,9 +6,8 @@
  *
  * @package Clarity
  * @subpackage tests
- * @author Jeremy Madea <jeremymadea@gmail.com> 
+ * @author Jeremy Madea <jdmadea@gmail.com> 
  * @copyright (C) 2007, Jeremy Madea 
- * @version SVN: $Id: session.test.php 7 2007-09-26 19:51:18Z jeremy $
  * @filesource
  */
 
